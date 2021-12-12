@@ -131,7 +131,7 @@ elif c.lower() == 'u':
 ```
 
 - Output Ubah Data
-![Gambar3](Screenshot/Output-mengubah-data.png)
+![Gambar3](Screenshot/Output-ubah-data.png)
 
 6. Menghapus Data
 - Jika ingin menghapus data gunakan
