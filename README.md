@@ -45,7 +45,7 @@ print(d("Wita"))
 ```
 
 ### Output
-![Gambar1](Screenshot/Ouput-latihan.png)
+![Gambar1](Screenshot/Output-latihan.png)
 
 
 ## Praktikum
